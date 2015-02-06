@@ -3,129 +3,7 @@
 
 <?php include "incs/header.php" ?>
 
-<!-- Preloader -->
-<div id="preloader">
-    <div id="status">&nbsp;</div>
-</div>
-
 <body>
-
-
-<!-- <div id="theme-options" class="hidden-xs">
-    <div id="body-options">
-        <div id="color-options">
-            <h2 class="no-margin-top">Color Selector</h2>
-            <a href="javascript:void(0);" rel="style-blue.css" class="color-box color-blue">blue</a>
-            <a href="javascript:void(0);" rel="style-blue2.css" class="color-box color-blue2">blue2</a>
-            <a href="javascript:void(0);" rel="style-blue3.css" class="color-box color-blue3">blue3</a>
-            <a href="javascript:void(0);" rel="style-blue4.css" class="color-box color-blue4">blue4</a>
-            <a href="javascript:void(0);" rel="style-blue5.css" class="color-box color-blue5">blue5</a>
-            <a href="javascript:void(0);" rel="style-green.css" class="color-box color-green">green</a>
-            <a href="javascript:void(0);" rel="style-green2.css" class="color-box color-green2">green2</a>
-            <a href="javascript:void(0);" rel="style-green3.css" class="color-box color-green3">green3</a>
-            <a href="javascript:void(0);" rel="style-green4.css" class="color-box color-green4">green4</a>
-            <a href="javascript:void(0);" rel="style-green5.css" class="color-box color-green5">green5</a>
-            <a href="javascript:void(0);" rel="style-red.css" class="color-box color-red">red</a>
-            <a href="javascript:void(0);" rel="style-red2.css" class="color-box color-red2">red2</a>
-            <a href="javascript:void(0);" rel="style-red3.css" class="color-box color-red3">red3</a>
-            <a href="javascript:void(0);" rel="style-fuchsia.css" class="color-box color-fuchsia">fuchsia</a>
-            <a href="javascript:void(0);" rel="style-pink.css" class="color-box color-pink">pink</a>
-            <a href="javascript:void(0);" rel="style-yellow.css" class="color-box color-yellow">yellow</a>
-            <a href="javascript:void(0);" rel="style-yellow2.css" class="color-box color-yellow2">yellow2</a>
-            <a href="javascript:void(0);" rel="style-orange.css" class="color-box color-orange">orange</a>
-            <a href="javascript:void(0);" rel="style-orange2.css" class="color-box color-orange2">orange2</a>
-            <a href="javascript:void(0);" rel="style-orange3.css" class="color-box color-orange3">orange3</a>
-            <a href="javascript:void(0);" rel="style-violet.css" class="color-box color-violet">violet</a>
-            <a href="javascript:void(0);" rel="style-violet2.css" class="color-box color-violet2">violet2</a>
-            <a href="javascript:void(0);" rel="style-violet3.css" class="color-box color-violet3">violet3</a>
-            <a href="javascript:void(0);" rel="style-gray.css" class="color-box color-gray">gray</a>
-            <a href="javascript:void(0);" rel="style-aqua.css" class="color-box color-aqua">aqua</a>
-        </div>
-        <div id="header-options">
-            <h2>Header Style</h2>
-            <div class="btn-group">
-                <a href="configurator.html" class="btn btn-block btn-primary btn-ar">Go to the headers selector</a>
-            </div>
-        </div>
-        <div id="width-options">
-            <h2>Container Selector</h2>
-            <div class="btn-group">
-                <form>
-                    <input type="checkbox" name="full-width-checkbox" data-label-width="80" data-label-text="Full Width" checked> 
-                </form>
-            </div>
-        </div>
-    </div>
-    <div id="icon-options">
-        <i class="fa fa-gears fa-2x fa-flip-horizontal"></i>
-    </div>
-</div> -->
-
-<div id="sb-site">
-<div class="boxed">
-
-<header id="header-full-top" class="hidden-xs header-full">
-    <div class="container">
-        <div class="header-full-title">
-            <h1 class="animated fadeInRight"><a href="index.html" class="active">artificial <span>reason</span></a></h1>
-            <p class="animated fadeInRight">Clean and elegant theme</p>
-        </div>
-        <nav class="top-nav">
-            <ul class="top-nav-social hidden-sm">
-                <li><a href="#" class="animated fadeIn animation-delay-6 rss"><i class="fa fa-rss"></i></a></li>
-                <li><a href="#" class="animated fadeIn animation-delay-7 twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#" class="animated fadeIn animation-delay-8 facebook"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#" class="animated fadeIn animation-delay-9 google-plus"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#" class="animated fadeIn animation-delay-9 instagram"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#" class="animated fadeIn animation-delay-8 vine"><i class="fa fa-vine"></i></a></li>
-                <li><a href="#" class="animated fadeIn animation-delay-7 linkedin"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="#" class="animated fadeIn animation-delay-6 flickr"><i class="fa fa-flickr"></i></a></li>
-            </ul>
-
-            <div class="dropdown animated fadeInDown animation-delay-11">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> Login</a>
-                <div class="dropdown-menu dropdown-menu-right dropdown-login-box animated fadeInUp">
-                    <form role="form">
-                        <h4>Login Form</h4>
-
-                        <div class="form-group">
-                            <div class="input-group login-input">
-                                <span class="input-group-addon"><i class="fa fa-user"></i></span>
-                                <input type="text" class="form-control" placeholder="Username">
-                            </div>
-                            <br>
-                            <div class="input-group login-input">
-                                <span class="input-group-addon"><i class="fa fa-lock"></i></span>
-                                <input type="password" class="form-control" placeholder="Password">
-                            </div>
-                            <div class="checkbox pull-left">
-                                <label>
-                                    <input type="checkbox"> Remember me
-                                </label>
-                            </div>
-                            <button type="submit" class="btn btn-ar btn-primary pull-right">Login</button>
-                            <div class="clearfix"></div>
-                        </div>
-                    </form>
-                </div>
-            </div> <!-- dropdown -->
-
-            <div class="dropdown animated fadeInDown animation-delay-13">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
-                <div class="dropdown-menu dropdown-menu-right dropdown-search-box animated fadeInUp">
-                    <form role="form">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Search...">
-                            <span class="input-group-btn">
-                                <button class="btn btn-ar btn-primary" type="button">Go!</button>
-                            </span>
-                        </div><!-- /input-group -->
-                    </form>
-                </div>
-            </div> <!-- dropdown -->
-        </nav>
-    </div> <!-- container -->
-</header> <!-- header-full -->
 
 <?php include "incs/menu.php"; ?>
 
@@ -235,37 +113,45 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="content-box box-default animated fadeInUp animation-delay-10">
-                    <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-html5"></i></span>
-                    <h4 class="content-box-title">Lorem ipsum dolor</h4>
-                    <p>Consectetur adipisicing elit vritatis dolor rem officia molestiae atque eveniet inventore earum quas voluptates cumque</p>
+                    <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
+                    <h4 class="content-box-title">Home Suport</h4>
+                    <p>Assistência especializada em hardwares e softwares sem precisar tirar o equipamento de seu domicilio ou empresa
+                        Devido a complexibilidade de manutenção em equipamentos Apple, não podemos garantir a solução do problema fora do nosso laboratório.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="content-box box-default animated fadeInUp animation-delay-14">
-                    <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-css3"></i></span>
-                    <h4 class="content-box-title">Lorem ipsum dolor</h4>
-                    <p>Consectetur adipisicing elit vritatis dolor rem officia molestiae atque eveniet inventore earum quas voluptates cumque</p>
+                    <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
+                    <h4 class="content-box-title">Express Services</h4>
+                    <p>Verificamos o diagnostico de seu equipamento em até 3 horas.
+                        Este serviço tem acréscimo de 30% no valor padrão do orçamento.
+                        Após o diagnóstico e aprovação do orçamento pelo cliente, verificaremos a disponibilidade imediata da reposição da peça. </p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="content-box box-default animated fadeInUp animation-delay-16">
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
-                    <h4 class="content-box-title">Lorem ipsum dolor</h4>
-                    <p>Consectetur adipisicing elit vritatis dolor rem officia molestiae atque eveniet inventore earum quas voluptates cumque</p>
+                    <h4 class="content-box-title">Take & Bring</h4>
+                    <p>Mais agilidade e rapidez na resolucao do diagnostico.
+                        Retiramos e entregamos seu equipamento com carro próprio. 
+                        Não tercerizamos este serviço com empresas de motoboys.
+                        Desta forma, garantimos que seu equipamento retorne íntegro e funcional.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="content-box box-default animated fadeInUp animation-delay-12">
-                    <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-flag"></i></span>
-                    <h4 class="content-box-title">Lorem ipsum dolor</h4>
-                    <p>Consectetur adipisicing elit vritatis dolor rem officia molestiae atque eveniet inventore earum quas voluptates cumque</p>
+                    <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
+                    <h4 class="content-box-title">Apple Network</h4>
+                    <p>Efetuamos instalação e configuração de rede estruturada para servidores Apple e Windows. 
+                        Criação e manutenção de ambiente de trabalho no Open Directory (Apple) e Active Directory (Microsoft)
+                        Configurações RAID, Boot Camp, Time Machine, Time Capsule e utilitários.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="section-lines">
+<!-- <section class="section-lines">
     <div class="container">
         <div class="row">
             <div class="col-md-4">
@@ -300,9 +186,9 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<div class="container">
+<!-- <div class="container">
     <section class="margin-bottom">
         <p class="lead lead-lg text-center primary-color margin-bottom">Knows the <strong>Artificial Reason</strong> and surprise yourself</p>
        <div class="row">
@@ -363,7 +249,7 @@
        </div>
    </section>
 
-</div>
+</div> -->
 
 
 <?php include "incs/footer.php"; ?>

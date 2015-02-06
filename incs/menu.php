@@ -10,9 +10,9 @@
         </div> <!-- navbar-header -->
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="pull-right">
+<!--         <div class="pull-right">
             <a href="javascript:void(0);" class="sb-icon-navbar sb-toggle-right"><i class="fa fa-bars"></i></a>
-        </div>
+        </div> -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
