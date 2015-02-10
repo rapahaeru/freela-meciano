@@ -35,7 +35,7 @@
     $email_content .= "Mensagem:\n\n$message"; 
          
     // send the email 
-    mail ("rapahaeru@gmail.com", "HelpMyMac : Nova mensagem", utf8_decode($email_content)); 
+    mail ("contato@helpmymac.com", "HelpMyMac : Nova mensagem", utf8_decode($email_content)); 
     //mail ("rapahaeru@gmail.com", "Site Itapura : Nova mensagem", utf8_decode($email_content)); 
          
     // send the user back to the form 

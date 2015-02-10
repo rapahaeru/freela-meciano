@@ -26,7 +26,7 @@
         </div>
         <div class="col-md-8">
             <section>
-                <p>Entre em contato ou peça um orçamento.</p>
+                <p>Se preferir, a HMM entra em contato com você. Preencha o formulário e em breve retornaremos.</p>
             <?php
             // check for a successful form post  
             if (isset($_GET['s'])) echo "<div class=\"alert alert-success\">".$_GET['s']."</div>";  
@@ -66,7 +66,7 @@
                             Rua Ferreira de Araújo. 902 - Pinheiros<br>
                             <abbr title="Phone">Tel:</abbr> (11) 2244-8725 <br>
                             <abbr title="Phone">Cel:</abbr> (11) 96590-9689 <br>
-                            Mail: <a href="#">support@openmid.com</a>
+                            E-mail: <a href="#">contato@helpmymac.com</a>
                         </address>
 
                         <!-- Business Hours -->
