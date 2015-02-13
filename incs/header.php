@@ -3,11 +3,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <title>Help My Mac</title>
+    <title>Help My Mac - Análise e consultaria Apple</title>
 
     <link rel="shortcut icon" href="img/favicon.png">
 
-    <meta name="description" content="">
+    <meta name="robots" content="index">
+    <meta name="description" content="Suporte e manutenção especializada em equipamentos Apple.">
+    <meta name="keywords" content="suporte,manutenção,apple,macbook,mac book,imac, macpro, mac pro, consultoria, orçamento, serviços especializados ">
 
     <!-- CSS -->
     <link href="css/preload.css" rel="stylesheet" media="screen">
@@ -31,6 +33,8 @@
         <script src="js/html5shiv.min.js"></script>
         <script src="js/respond.min.js"></script>
     <![endif]-->
+
+    <?php include "incs/analytics.php"; ?>
 </head>
 
 <!-- Preloader -->

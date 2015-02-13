@@ -28,8 +28,8 @@
                                    <h1 class="animated fadeInDownBig animation-delay-7 carousel-title">Assistência técnica especializada</h1>
                                    <h2 class="animated fadeInDownBig animation-delay-5  crousel-subtitle">Manutenção em toda linha de equipamentos Apple</h2>
                                    <ul class="list-unstyled carousel-list">
-                                       <li class="animated bounceInLeft animation-delay-11"><i class="fa fa-check"></i>Orçamento sem compromisso</li>
-                                       <li class="animated bounceInLeft animation-delay-13"><i class="fa fa-check"></i>Atendimento domiciliar / remoto</li>
+                                       <li class="animated bounceInLeft animation-delay-11"><i class="fa fa-check"></i>Análise e consultoria</li>
+                                       <li class="animated bounceInLeft animation-delay-13"><i class="fa fa-check"></i>Orçamento sem compromisso</li>
                                        <li class="animated bounceInLeft animation-delay-15"><i class="fa fa-check"></i>Técnicos com cursos especializados</li>
                                        
                                    </ul>
@@ -54,12 +54,12 @@
                                    <h1 class="animated fadeInDownBig animation-delay-7 carousel-title">Serviços especializados</h1>
                                    <h2 class="animated fadeInDownBig animation-delay-5  crousel-subtitle">Técnicos atualizados no mercado</h2>
                                    <ul class="list-unstyled carousel-list">
-                                       <li class="animated bounceInLeft animation-delay-11"><i class="fa fa-check"></i>Análise e consultoria</li>
+                                       <li class="animated bounceInLeft animation-delay-11"><i class="fa fa-check"></i>Manutenção de hardware e software</li>
                                        <li class="animated bounceInLeft animation-delay-13"><i class="fa fa-check"></i>Vendas de equipamentos Apple e periféricos</li>
                                        <li class="animated bounceInLeft animation-delay-15"><i class="fa fa-check"></i>Configuração, manutenção, rede e serviços Apple</li>
-                                       <li class="animated bounceInLeft animation-delay-15"><i class="fa fa-check"></i>Manutenção de hardware e software</li>
+                                       <!-- <li class="animated bounceInLeft animation-delay-15"><i class="fa fa-check"></i></li> -->
                                    </ul>
-                                   <p class="animated fadeInUpBig animation-delay-17">Suporte a aplicativos : Mail,Agenda,Boot camp, Time Machine e utilitários.</p>
+                                   <p class="animated fadeInUpBig animation-delay-17">Suporte a aplicativos : Mail, Agenda, Boot Camp, Time Machine e utilitários.</p>
                                </div>
                             </div>
                         </div>
@@ -123,9 +123,11 @@
                 <div class="content-box box-default animated fadeInUp animation-delay-14">
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
                     <h4 class="content-box-title">Express Services</h4>
-                    <p>Verificamos o diagnostico de seu equipamento em até 3 horas.
-                        Este serviço tem acréscimo de 30% no valor padrão do orçamento.
-                        Após o diagnóstico e aprovação do orçamento pelo cliente, verificaremos a disponibilidade imediata da reposição da peça. </p>
+                    <p>
+                      Verificamos o diagnostico de seu equipamento em até 3 horas.
+                      Este serviço terá o acréscimo de 30% no valor padrão do orçamento.
+                      Após o diagnóstico e aprovação do orçamento pelo cliente, verificaremos a disponibilidade imediata da reposição da peça. <a href="contato.php">Fale conosco!</a></p>
+
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
