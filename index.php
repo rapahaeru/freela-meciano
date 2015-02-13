@@ -33,7 +33,7 @@
                                        <li class="animated bounceInLeft animation-delay-15"><i class="fa fa-check"></i>Técnicos com cursos especializados</li>
                                        
                                    </ul>
-                                   <p class="animated fadeInUpBig animation-delay-17">Visando garantir tranquilidade no atendimento do cliente, seguimos os padrões de atendimento Apple em <span>Troubleshooting</span></p>
+                                   <p class="animated fadeInUpBig animation-delay-17">Visando garantir tranquilidade no atendimento ao cliente, seguimos os padrões de atendimento Apple em <span>Troubleshooting</span></p>
                                </div>
                             </div>
                         </div>
@@ -114,8 +114,8 @@
             <div class="col-md-3 col-sm-6">
                 <div class="content-box box-default animated fadeInUp animation-delay-10">
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
-                    <h4 class="content-box-title">Home Suport</h4>
-                    <p>Assistência especializada em hardwares e softwares sem precisar tirar o equipamento de seu domicilio ou empresa
+                    <h4 class="content-box-title">Home Support</h4>
+                    <p>Assistência especializada em hardwares e softwares sem precisar tirar o equipamento de seu domicílio ou empresa.
                         Devido a complexibilidade de manutenção em equipamentos Apple, não podemos garantir a solução do problema fora do nosso laboratório.</p>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
                     <h4 class="content-box-title">Express Services</h4>
                     <p>
-                      Verificamos o diagnostico de seu equipamento em até 3 horas.
+                      Verificamos o diagnóstico de seu equipamento em até 3 horas.
                       Este serviço terá o acréscimo de 30% no valor padrão do orçamento.
                       Após o diagnóstico e aprovação do orçamento pelo cliente, verificaremos a disponibilidade imediata da reposição da peça. <a href="contato.php">Fale conosco!</a></p>
 
@@ -134,7 +134,7 @@
                 <div class="content-box box-default animated fadeInUp animation-delay-16">
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-desktop"></i></span>
                     <h4 class="content-box-title">Take & Bring</h4>
-                    <p>Mais agilidade e rapidez na resolucao do diagnostico.
+                    <p>Mais agilidade e rapidez na resolução do diagnóstico.
                         Retiramos e entregamos seu equipamento com carro próprio. 
                         Não tercerizamos este serviço com empresas de motoboys.
                         Desta forma, garantimos que seu equipamento retorne íntegro e funcional.</p>
