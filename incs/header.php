@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <title>Help My Mac - Análise e consultaria Apple</title>
+    <title>Help My Mac - Análise e consultoria Apple</title>
 
     <link rel="shortcut icon" href="img/favicon.png">
 
